@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\bin\Debug\otoparkotomasyon.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\bin\Debug\otoparkotomasyon.exe
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\bin\Debug\otoparkotomasyon.pdb
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.anamenu.resources
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.kullanicikayit.resources
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.exe
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.pdb
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.aracbilgi.resources
+c:\users\hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.aracgiris.resources
+C:\Users\Hp\documents\visual studio 2013\Projects\otoparkotomasyon\otoparkotomasyon\obj\Debug\otoparkotomasyon.report.resources
